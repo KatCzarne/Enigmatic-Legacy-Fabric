@@ -1,13 +1,8 @@
 # Enigmatic Legacy [![](http://cf.way2muchnoise.eu/versions/enigmatic-legacy.svg)](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy) [![](http://cf.way2muchnoise.eu/full_enigmatic-legacy_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy/files)
 
-**Current Version:** 2.30.1
+Currently a new fork of Enigmatic legacy with the goal of eventually bringing a version of the mod onto the fabric modloader.
+No, this is not finished, nor does it work. It's gonna take awhile because im just one dude. 
 
-**Minecraft Version:** 1.20.1
+I'll create a release version whenever an operational version of the mod exists
 
-**Forge Version:** 43.1.0 or later.
-
-**Dependencies:** CuriosAPI-Forge 1.19.2-5.1.1.0 or later; Patchouli 1.19.2-77 or later; Caelus API 1.19.2-3.0.0.6 or later.
-
-This mod is designed to bring new magical-themed content to the game, mainly of utilitary nature. New trinkets and powerful relics are restlessly waiting to contribute to your creational and/or destructional purposes, whatever moral is standing behind them, if any at all...
-
-Whatever fate your advent will bring upon this forgotten land.
+Thanks :)
